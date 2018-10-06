@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://panzhengyang.github.io/sitemap.xml
+Sitemap: http://panzhengyang.github.io/sitemap.xml
