@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://panzhengyang.github.io/sitemap.xml
