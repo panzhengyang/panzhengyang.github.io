@@ -13,10 +13,10 @@
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://panzhengyang.github.io/post/syntax-highlighting/</link>
+      <link>http://panzhengyang.github.io/post/%E6%9D%90%E6%96%99/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://panzhengyang.github.io/post/syntax-highlighting/</guid>
+      <guid>http://panzhengyang.github.io/post/%E6%9D%90%E6%96%99/syntax-highlighting/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function helloWorld () {
   alert(&amp;quot;Hello, World!&amp;quot;)
 }
